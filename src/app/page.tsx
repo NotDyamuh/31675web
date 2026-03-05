@@ -36,7 +36,7 @@ const team = [
 
 const mentors = [
 { name: "Hadeed Khan", role: "Lead Coach", img: "team/mentor1.jpg" },
-{ name: "Brother Mohib", role: "Team Manager", img: "team/mentor2.jpg" },
+{ name: "Brother Mohib", role: "Team Manager", img: "team/mohib.jpg" },
 { name: "Brother Waheed", role: "Strategies", img: "team/mentor3.jpg" },
 ];
 
